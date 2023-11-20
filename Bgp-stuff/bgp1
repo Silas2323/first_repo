@@ -1,0 +1,5 @@
+config t
+
+router bgp 255
+
+neighbor 1.1.1.1 remote-as 10
